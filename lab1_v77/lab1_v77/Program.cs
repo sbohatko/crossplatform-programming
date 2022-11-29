@@ -6,7 +6,6 @@ namespace lab1_v77
 {
     class Program
     {
-
         public static int[] my = new int[10];
         public static int[] mx = new int[10];
         public static int n;
@@ -46,19 +45,22 @@ namespace lab1_v77
                 }
             }
         }
+
         static void Main(string[] args)
-        {
+        { 
             var numOfInputs = 3;
+            var path = "/Users/alexbogatko/Documents/GitHub/crossplatform-programming/lab1_v77/lab1_v77/";
             for (var i = 1; i <= numOfInputs; i++)
             {
-                StreamReader sr = new StreamReader(@"/Users/alexbogatko/Documents/GitHub/crossplatform-programming/lab1_v77/lab1_v77/input"+i+".txt");
+                StreamReader sr = new StreamReader($@"{path}input{i}.txt");
                 var set = sr.ReadToEnd().Split(' ');
                 n = int.Parse(set[0]);
                 k = int.Parse(set[1]);
                 Check(k);
-                Console.Write(count+ "\n\n");
+                File.WriteAllText($"{path}output{i}.txt", Convert.ToString(count));
             }
             Console.ReadKey();
+
         }
     }
 }

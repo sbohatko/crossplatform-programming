@@ -1,13 +1,12 @@
 ﻿<Properties StartupConfiguration="{A168565B-08B4-4223-9B57-AE0F73C81804}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.lab1__v77 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="lab1_v77/Program.cs">
     <Files>
-      <File FileName="lab1_v77/Program.cs" Line="20" Column="1" IsPinned="True" />
+      <File FileName="lab1_v77/Program.cs" Line="8" Column="6" IsPinned="True" />
+      <File FileName="lab1_v77/input1.txt" Line="1" Column="1" />
+      <File FileName="lab1_v77/input2.txt" Line="1" Column="1" />
+      <File FileName="lab1_v77/input3.txt" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -22,5 +21,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
