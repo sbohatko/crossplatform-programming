@@ -1,0 +1,15 @@
+C:\Work\projects\Lab_Bogat\lab1\Maharaja\Maharaja\bin\Debug\net6.0\Maharaja.exe
+C:\Work\projects\Lab_Bogat\lab1\Maharaja\Maharaja\bin\Debug\net6.0\Maharaja.deps.json
+C:\Work\projects\Lab_Bogat\lab1\Maharaja\Maharaja\bin\Debug\net6.0\Maharaja.runtimeconfig.json
+C:\Work\projects\Lab_Bogat\lab1\Maharaja\Maharaja\bin\Debug\net6.0\Maharaja.dll
+C:\Work\projects\Lab_Bogat\lab1\Maharaja\Maharaja\bin\Debug\net6.0\Maharaja.pdb
+C:\Work\projects\Lab_Bogat\lab1\Maharaja\Maharaja\obj\Debug\net6.0\Maharaja.csproj.AssemblyReference.cache
+C:\Work\projects\Lab_Bogat\lab1\Maharaja\Maharaja\obj\Debug\net6.0\Maharaja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\projects\Lab_Bogat\lab1\Maharaja\Maharaja\obj\Debug\net6.0\Maharaja.AssemblyInfoInputs.cache
+C:\Work\projects\Lab_Bogat\lab1\Maharaja\Maharaja\obj\Debug\net6.0\Maharaja.AssemblyInfo.cs
+C:\Work\projects\Lab_Bogat\lab1\Maharaja\Maharaja\obj\Debug\net6.0\Maharaja.csproj.CoreCompileInputs.cache
+C:\Work\projects\Lab_Bogat\lab1\Maharaja\Maharaja\obj\Debug\net6.0\Maharaja.dll
+C:\Work\projects\Lab_Bogat\lab1\Maharaja\Maharaja\obj\Debug\net6.0\refint\Maharaja.dll
+C:\Work\projects\Lab_Bogat\lab1\Maharaja\Maharaja\obj\Debug\net6.0\Maharaja.pdb
+C:\Work\projects\Lab_Bogat\lab1\Maharaja\Maharaja\obj\Debug\net6.0\Maharaja.genruntimeconfig.cache
+C:\Work\projects\Lab_Bogat\lab1\Maharaja\Maharaja\obj\Debug\net6.0\ref\Maharaja.dll

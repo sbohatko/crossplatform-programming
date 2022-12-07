@@ -1,0 +1,15 @@
+C:\Work\projects\Lab_Bogat\lab2\PiggyBank\PiggyBank\obj\Debug\net6.0\PiggyBank.csproj.AssemblyReference.cache
+C:\Work\projects\Lab_Bogat\lab2\PiggyBank\PiggyBank\obj\Debug\net6.0\PiggyBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\projects\Lab_Bogat\lab2\PiggyBank\PiggyBank\obj\Debug\net6.0\PiggyBank.AssemblyInfoInputs.cache
+C:\Work\projects\Lab_Bogat\lab2\PiggyBank\PiggyBank\obj\Debug\net6.0\PiggyBank.AssemblyInfo.cs
+C:\Work\projects\Lab_Bogat\lab2\PiggyBank\PiggyBank\obj\Debug\net6.0\PiggyBank.csproj.CoreCompileInputs.cache
+C:\Work\projects\Lab_Bogat\lab2\PiggyBank\PiggyBank\bin\Debug\net6.0\PiggyBank.exe
+C:\Work\projects\Lab_Bogat\lab2\PiggyBank\PiggyBank\bin\Debug\net6.0\PiggyBank.deps.json
+C:\Work\projects\Lab_Bogat\lab2\PiggyBank\PiggyBank\bin\Debug\net6.0\PiggyBank.runtimeconfig.json
+C:\Work\projects\Lab_Bogat\lab2\PiggyBank\PiggyBank\bin\Debug\net6.0\PiggyBank.dll
+C:\Work\projects\Lab_Bogat\lab2\PiggyBank\PiggyBank\bin\Debug\net6.0\PiggyBank.pdb
+C:\Work\projects\Lab_Bogat\lab2\PiggyBank\PiggyBank\obj\Debug\net6.0\PiggyBank.dll
+C:\Work\projects\Lab_Bogat\lab2\PiggyBank\PiggyBank\obj\Debug\net6.0\refint\PiggyBank.dll
+C:\Work\projects\Lab_Bogat\lab2\PiggyBank\PiggyBank\obj\Debug\net6.0\PiggyBank.pdb
+C:\Work\projects\Lab_Bogat\lab2\PiggyBank\PiggyBank\obj\Debug\net6.0\PiggyBank.genruntimeconfig.cache
+C:\Work\projects\Lab_Bogat\lab2\PiggyBank\PiggyBank\obj\Debug\net6.0\ref\PiggyBank.dll
